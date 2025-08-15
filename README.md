@@ -35,7 +35,7 @@ Reference: 👉 [DOI](https://pmc.ncbi.nlm.nih.gov/articles/PMC5766832/)
 Repository: 🔗 [Github](https://github.com/loris-fab/NWB_Converter_LeMerre.git)
 
 
-## ⚙️ Installation (shared environment for all conversion pipelines)
+## ⚙️ Environment setup
 
 In the **main repository** (where the requirements.txt file is located):
 
