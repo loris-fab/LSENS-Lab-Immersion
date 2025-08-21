@@ -49,7 +49,7 @@ Since there is no published article yet, the dataset contains single-neuron memb
 
 For detailed usage and dataset-specific notes, see the full README of this repository.
 
-Repository: 🔗 [Github](https://github.com/loris-fab/NWB_Whisker-Stimulus-Decoding-main.git)
+Repository: 🔗 [Github](https://github.com/loris-fab/NWB_converter_PB.git)
 
 
 ## ⚙️ Environment setup
