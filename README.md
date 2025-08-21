@@ -26,9 +26,9 @@ Provides advanced PSTH exploration, trial-based filtering, and decoder tuning to
 Repository: 🔗 [Github](https://github.com/loris-fab/NWB_Whisker-Stimulus-Decoding-main.git)
 
 ---
-### 2. NWB Conversion Pipeline (Pierre Le Merre et al., 2028, Cell Reports)
+### 2. NWB Conversion Pipeline (Pierre Le Merre et al., 2018, Cell Reports)
 
-Converts behavioral and electrophysiological data from **Pierre Le Merre et al., 2028 (Cell Reports)** into the **Neurodata Without Borders (NWB)** format.  
+Converts behavioral and electrophysiological data from **Pierre Le Merre et al., 2018 (Cell Reports)** into the **Neurodata Without Borders (NWB)** format.  
 The study examines how distributed brain networks encode and integrate sensory, motor, and cognitive signals during goal-directed behavior in mice.
 
 For detailed usage and dataset-specific notes, see the full README of this repository.
@@ -36,6 +36,20 @@ For detailed usage and dataset-specific notes, see the full README of this repos
 Reference: 👉 [DOI](https://pmc.ncbi.nlm.nih.gov/articles/PMC5766832/)
 
 Repository: 🔗 [Github](https://github.com/loris-fab/NWB_Converter_LeMerre.git)
+
+---
+
+### 3. NWB Conversion Pipeline (unpublished, 2025)
+
+Converts **single-neuron membrane potential recordings** from the medial prefrontal cortex (mPFC) of awake behaving mice into the **Neurodata Without Borders (NWB)** format.
+
+The dataset includes two experimental conditions:
+
+Since there is no published article yet, the dataset contains single-neuron membrane potential recordings from the medial prefrontal cortex of awake mice: Whisker rewarded (WR+) mice received water if they licked within 1 s after a whisker stimulus (go trials), but not in no-go trials; No-Task mice were head-fixed and received random whisker stimuli without a task. Recordings were obtained using whole-cell patch-clamp.
+
+For detailed usage and dataset-specific notes, see the full README of this repository.
+
+Repository: 🔗 [GitHub](https://github.com/loris-fab/NWB_Whisker-Stimulus-Decoding-main.git)
 
 
 ## ⚙️ Environment setup
