@@ -54,7 +54,18 @@ Repository: 🔗 [Github](https://github.com/loris-fab/NWB_converter_PB.git)
 
 ## ⚙️ Environment setup
 
-In the **main repository** (where the requirements.txt file is located):
+### Install Anaconda
+
+1. Download the installer from [Anaconda official website](https://www.anaconda.com/download).  
+2. Verify installation:  
+   ```bash
+   conda --version
+   ```
+### Create and activate an environment:
+
+Download the **requirements.txt** file from the current repository.  
+Then, open a terminal in the same directory and run the following command:
+
 
 ```bash
 conda create -n nwb_env python=3.9
