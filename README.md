@@ -72,3 +72,26 @@ conda create -n nwb_env python=3.9
 conda activate nwb_env
 python -m pip install --upgrade pip wheel setuptools && pip install -r requirements.txt
 ```
+
+## 🏁 Verification
+Whether you run the code from the **terminal** or from **Jupyter**, it is essential to ensure that you are using the correct environment. If you are working in *Visual Studio Code*, follow this steps:
+
+#### **Terminal:**
+
+- Python: select an interpreter and choose the environment you just created (`lsens_nwb`).
+
+![alt text](Images/image1.png)
+
+- Open a terminal in Visual Studio Code, create a new terminal with your desired profile, and select bash.
+
+![alt text](Images/image2.png)
+
+- Ensure that you are using the correct environment.
+
+![alt text](Images/image3.png)
+
+#### **Jupyter:** 
+In Jupyter, check the top-right corner to ensure that the pipeline is running in the correct environment. If it is not, click on it and select the `lsens_nwb` environment.
+![alt text](Images/image4.png)
+
+
