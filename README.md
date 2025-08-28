@@ -1,7 +1,7 @@
 # LSENS-Lab-Immersion
 Data management internship at the EPFL Brain Institute’s LSENS lab, working with published and unpublished neurophysiological datasets. This repository summarizes my work on converting data to the NWB format and developing small visualisation pipelines from some converted datasets.
 
-For more details, you can also refer to the PDF in this repository **<LSENS-LabImmersion.pdf>**, which is my internship report and contains valuable technical information about the different steps.
+For more details, you can also refer to the PDF in this repository **<LSENS-LabImmersion.pdf>**, which is my internship report and contains valuable technical information my work.
 
 
 ## 📁 Related Repositories
