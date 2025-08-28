@@ -54,6 +54,8 @@ Repository: 🔗 [Github](https://github.com/loris-fab/NWB_converter_PB.git)
 
 ## ⚙️ Environment setup
 
+If you are working on EPFL computers, it is recommended to create the environment directly from Anaconda.
+
 ### Install Anaconda
 
 1. Download the installer from [Anaconda official website](https://www.anaconda.com/download).  
