@@ -84,7 +84,7 @@ After this setup, you should clone the corresponding repository that you wish to
 
 Whether you run the code from the **terminal** or from **Jupyter**, it is essential to ensure that you are using the correct environment. If you are working in *Visual Studio Code*, follow this steps:
 
-#### **Terminal:**
+### **Terminal:**
 
 - Python: select an interpreter and choose the environment you just created (`lsens_nwb`).
 
@@ -98,7 +98,7 @@ Whether you run the code from the **terminal** or from **Jupyter**, it is essent
 
 ![alt text](Images/image3.png)
 
-#### **Jupyter:** 
+### **Jupyter:** 
 In Jupyter, check the top-right corner to ensure that the pipeline is running in the correct environment. If it is not, click on it and select the `lsens_nwb` environment.
 ![alt text](Images/image4.png)
 
