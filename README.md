@@ -26,7 +26,7 @@ Provides advanced PSTH exploration, trial-based filtering, and decoder tuning to
 Repository: 🔗 [Github](https://github.com/loris-fab/NWB_Whisker-Stimulus-Decoding-main.git)
 
 ---
-### 2. NWB Conversion Pipeline (Pierre Le Merre et al., 2018, Cell Reports)
+### 2. NWB Conversion Pipeline (Pierre Le Merre et al., 2018)
 
 Converts behavioral and electrophysiological data from **Pierre Le Merre et al., 2018 (Cell Reports)** into the **Neurodata Without Borders (NWB)** format.  
 The study examines how distributed brain networks encode and integrate sensory, motor, and cognitive signals during goal-directed behavior in mice.
@@ -39,7 +39,7 @@ Repository: 🔗 [Github](https://github.com/loris-fab/NWB_Converter_LeMerre.git
 
 ---
 
-### 3. NWB Conversion Pipeline (unpublished, 2025)
+### 3. NWB Conversion Pipeline (Lila Banterle et al., unpublished, 2025)
 
 Converts **single-neuron membrane potential recordings** from the medial prefrontal cortex (mPFC) of awake behaving mice into the **Neurodata Without Borders (NWB)** format.
 
