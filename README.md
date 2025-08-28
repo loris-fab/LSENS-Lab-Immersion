@@ -54,7 +54,9 @@ Repository: 🔗 [Github](https://github.com/loris-fab/NWB_converter_PB.git)
 
 ## ⚙️ Environment setup
 
-If you are working on EPFL computers, it is recommended to create the environment directly from Anaconda.
+
+If you are working on EPFL computers, a practical workaround, is to create the environment directly from Anaconda in a terminal, within the same directory as the `requirements.txt` file. Once the environment has been created, *Visual Studio Code* should be opened independently (i.e., not launched via Anaconda). This approach helps to avoid potential issues that may arise on EPFL computers due to their connection to central servers and ensures that the interpreter correctly detects and uses the previously created environment.
+
 
 ### Install Anaconda
 
@@ -75,7 +77,11 @@ conda activate nwb_env
 python -m pip install --upgrade pip wheel setuptools && pip install -r requirements.txt
 ```
 
+After this setup, you should clone the corresponding repository that you wish to work with.
+
 ## 🏁 Verification
+
+
 Whether you run the code from the **terminal** or from **Jupyter**, it is essential to ensure that you are using the correct environment. If you are working in *Visual Studio Code*, follow this steps:
 
 #### **Terminal:**
