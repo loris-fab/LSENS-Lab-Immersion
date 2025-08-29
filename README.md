@@ -29,7 +29,7 @@ Repository: 🔗 [Github](https://github.com/loris-fab/NWB_Whisker-Stimulus-Deco
 ### 2. NWB Conversion Pipeline (Pierre Le Merre et al., 2018)
 
 Converts behavioral and electrophysiological data from **Pierre Le Merre et al., 2018 (Cell Reports)** into the **Neurodata Without Borders (NWB)** format.  
-The study examines how distributed brain networks encode and integrate sensory, motor, and cognitive signals during goal-directed behavior in mice.
+This article investigates how reward-based learning enables the rapid emergence of sensory-evoked signals in the medial prefrontal cortex and dorsal hippocampus, which are required for mice to perform a goal-directed whisker detection task.
 
 For detailed usage and dataset-specific notes, see the full README of this repository or read the internship report **<LSENS-LabImmersion.pdf>**.
 
