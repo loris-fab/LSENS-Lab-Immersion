@@ -11,7 +11,7 @@ For more details, you can also refer to the PDF in this repository **<LSENS-LabI
 This repository converts behavioral and electrophysiological data from **Oryshchuk et al., 2024 (Cell Reports)** into the standardized **Neurodata Without Borders (NWB)** format.  
 The study investigates how sensory, motor, and decision-related information is distributed and encoded in the mouse neocortex during goal-directed behavior.  
 
-For detailed usage and dataset-specific notes, see the full README of this repository.
+For detailed usage and dataset-specific notes, see the full README of this repository or read the internship report **<LSENS-LabImmersion.pdf>**.
 
 Reference: 👉 [DOI](https://doi.org/10.1016/j.celrep.2023.113618)
 
@@ -31,7 +31,7 @@ Repository: 🔗 [Github](https://github.com/loris-fab/NWB_Whisker-Stimulus-Deco
 Converts behavioral and electrophysiological data from **Pierre Le Merre et al., 2018 (Cell Reports)** into the **Neurodata Without Borders (NWB)** format.  
 The study examines how distributed brain networks encode and integrate sensory, motor, and cognitive signals during goal-directed behavior in mice.
 
-For detailed usage and dataset-specific notes, see the full README of this repository.
+For detailed usage and dataset-specific notes, see the full README of this repository or read the internship report **<LSENS-LabImmersion.pdf>**.
 
 Reference: 👉 [DOI](https://pmc.ncbi.nlm.nih.gov/articles/PMC5766832/)
 
@@ -47,7 +47,7 @@ The dataset includes two experimental conditions:
 
 Since there is no published article yet, the dataset contains single-neuron membrane potential recordings from the medial prefrontal cortex of awake mice: Whisker rewarded (WR+) mice received water if they licked within 1 s after a whisker stimulus (go trials), but not in no-go trials; No-Task mice were head-fixed and received random whisker stimuli without a task. Recordings were obtained using whole-cell patch-clamp.
 
-For detailed usage and dataset-specific notes, see the full README of this repository.
+For detailed usage and dataset-specific notes, see the full README of this repository or read the internship report **<LSENS-LabImmersion.pdf>**.
 
 Repository: 🔗 [Github](https://github.com/loris-fab/NWB_converter_PB.git)
 
